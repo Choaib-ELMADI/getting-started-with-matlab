@@ -1,0 +1,5 @@
+> save fileName.mat             ==> Save your Workspace to fileName.mat
+> delete fileName.mat           ==> Delete fileName from your Current Folder
+> clear                         ==> Clear your Workspace
+> load fileName.mat             ==> Load data from fileName to Workspace
+> clc                           ==> Clean your Command Window
