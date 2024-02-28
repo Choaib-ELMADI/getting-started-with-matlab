@@ -4,3 +4,10 @@
         * Simulation
         * Algorithm development
         * ...
+
+2. Development Environment:
+    > Current Folder:   => Show folders and files
+    > Command Window:   => Write and execute commands
+    > Workspace:        => Show and manipulate variables
+    > Command History:  => Show the executed commands
+    > Details:          => Show details of a variable
