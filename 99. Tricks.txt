@@ -1,0 +1,15 @@
+1. Convert your command window code into a live script
+
+2. Create beautiful docs with this:
+    * Split code
+    * Add text
+    * ...
+    
+    * $M_{some_text}$
+    * $\sin$, $\cos$
+    * $\times$
+    * $\alpha$
+    * $\beta$
+    * $\delta$
+    * $\gamma$
+    * ...

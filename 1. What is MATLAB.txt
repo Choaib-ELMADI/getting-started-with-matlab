@@ -1,0 +1,6 @@
+1. What is MATLAB:
+    MATLAB is an environment for all kinds of technical computing, like:
+        * Data analysis
+        * Simulation
+        * Algorithm development
+        * ...

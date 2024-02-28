@@ -1,8 +1,0 @@
-1. What is MATLAB:
-    MATLAB is an environment for all kinds of technical computing, like data analysis, simulation and algorithm development.
-
-Theoretical model that says what the energy production should be:
-latitude = 42 + 17/60 // 42° 17'
-solarDeclination
-LST: local solar time
-sin(alpha) = sin(solarDeclination) * sin(latitude) + cos(solarDeclination) * cos(latitude) * cos(15 * (LST - 12))
