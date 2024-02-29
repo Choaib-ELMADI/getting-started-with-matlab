@@ -1,7 +1,7 @@
 1. Convert your command window code into a live script
 
 2. Create beautiful docs with this:
-    * Split code
+    * Split code: %% sectionName
     * Add text
     * ...
     
