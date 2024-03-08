@@ -1,0 +1,20 @@
+a = 1.5;                ==> Class: double // default numeric class
+
+d(1) = true;            ==> Class: logical
+d(2) = false;           ==> Class: logical
+
+first = 'Choaib';       ==> Class: char
+last = "ELMADI";        ==> Class: string
+
+==> format short        ==> The default            
+==> format long         ==> Change the display precision format to long
+
+X. Notes:
+    ==> All Matlab data classes are arrays
+
+    ==> Different types concatenation:
+    >> str = ['test__' num2str(99)];
+    >> str
+
+    str =
+        'test__99'
