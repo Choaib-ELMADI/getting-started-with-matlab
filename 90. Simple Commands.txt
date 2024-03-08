@@ -6,3 +6,6 @@
 
 > t = linspace(x, y, N)         ==> Goes from x to y in N steps
 > y = randn(N, M)               ==> Creates a N*M matrix of random numbers
+
+> whos                          ==> Get all the variables in the Workspace and some details about them
+> class(variable)               ==> Return the class (type) of variable

@@ -1,0 +1,33 @@
+1. Structures:
+    -> *** Car Structure:
+    >> car.name = 'Porsche 911';
+    >> car.year = 2023;
+    >> car.color = 'Yellow';
+    >> car.gear = 12;
+    >> car
+
+    car = 
+        struct with fields:
+            name: 'Porsche 911'
+            year: 2023
+            color: 'Yellow'
+            gear: 12
+
+    -> *** Person Structure:
+    >> person = struct('name', 'Choaib', 'age', 22, 'occupation', 'Student');
+    >> person
+
+    person = 
+        struct with fields:
+            name: 'Choaib'
+            age: 22
+            occupation: 'Student'
+
+2. Cell Arrays:
+    ==> Cell Arrays are just arrays that store different types of data
+
+    myCell = { 1 2 3; 'name', [1; 2], false };
+
+    => Indexing with () returns the cell
+    => Indexing with {} returns the actual value
+    => Accessing multiple values with curly brackets {} returns a comma separated list
