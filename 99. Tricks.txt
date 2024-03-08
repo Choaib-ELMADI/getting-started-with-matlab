@@ -19,3 +19,13 @@
     * ...
 
 3. Import data tools (csv, xlsx, ...)
+
+4. Grabit Add-Ons:
+    ==> Extract data from an image
+
+    > Install grabit add-ons
+    > Run grabit.m file
+    > Select the image to extract data from
+    > Calibrate the x and the y axes (Min and Max values)
+    > Start positioning the points
+    > Save extracted data
