@@ -1,0 +1,17 @@
+1. Plot function:
+    plot(y);                            ==> Plot y against integers (based on size of y)
+    plot(t, y);                         ==> Plot y against t
+    plot(t, y, '-*')                    ==> Line style: Add * at each change of t
+    plot(t, y, '-o')                    ==> Line style: Add o at each change of t
+    plot(t, y, '--')                    ==> Line style: dashed line
+    plot(t, y, '--*')                   ==> Line style: dashed line with * at each change of t
+    plot(t, y, '--o')                   ==> Line style: dashed line with o at each change of t
+    ... plot(t, x, '--ro', 'LineWidth', 3, 'MarkerSize', 5);
+
+    hold on                             ==> Plot multiple variables on the same figure
+    hold off                            ==> Release plotting on the same figure
+
+    title(Title of a plot (figure))     ==> Add a title for a figure
+    xlabel(X axes title)                ==> Add a title for the x axes
+    ylabel(Y axes title)                ==> Add a title for the y axes
+    legend("plot1", "plot2", "...")     ==> Distinguish different plots

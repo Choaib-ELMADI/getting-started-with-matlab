@@ -3,3 +3,6 @@
 > clear                         ==> Clear your Workspace
 > load fileName.mat             ==> Load data from fileName to Workspace
 > clc                           ==> Clean your Command Window
+
+> t = linspace(x, y, N)         ==> Goes from x to y in N steps
+> y = randn(N, M)               ==> Creates a N*M matrix of random numbers

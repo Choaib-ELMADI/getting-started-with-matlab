@@ -1,4 +1,8 @@
 1. Convert your command window code into a live script
+    > Open Command History
+    > Select the commands
+    > Right click
+    > Create Live Script
 
 2. Create beautiful docs with this:
     * Split code: %% sectionName
