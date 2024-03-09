@@ -9,3 +9,5 @@
 
 > whos                          ==> Get all the variables in the Workspace and some details about them
 > class(variable)               ==> Return the class (type) of variable
+
+> tic; functionName; toc        ==> Print the execution time of functionName

@@ -29,3 +29,9 @@
     > Calibrate the x and the y axes (Min and Max values)
     > Start positioning the points
     > Save extracted data
+
+5. Run and Time:
+    ==> This will open the "Profiler for Improving Performance" window
+    ==> Show details of running a function
+
+6. Parallel Pool: parpool...
