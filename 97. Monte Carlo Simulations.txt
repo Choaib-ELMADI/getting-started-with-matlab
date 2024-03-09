@@ -1,0 +1,14 @@
+1. Why & Where are Monte Carlo Simulations used?
+    ==> Monte Carlo Simulations help to answer probability questions
+    ==> Used for example in:
+        - Finance (economic forecasting, risk management, stress testing, ...)
+        - Automotive (sensitivity analyses, ...)
+        - Weather Forecasting
+        - ...
+
+2. What are Monte Carlo Simulations?
+    ==> Repeated random sampling to obtain numerical results
+
+    1. Start with a simulation model
+    2. Run that model many times with randomly changing parameters
+    3. Analyze the results systematially
