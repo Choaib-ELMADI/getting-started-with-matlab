@@ -1,0 +1,22 @@
+1. What is ThingSpeak?
+    ==> ThingSpeak is an IoT platform that enables to collect, analyze and act on data
+    ==> ThingSpeak includes Matlab (analyze and visualize data)
+    ==> ThingSpeak uses channels to store data from a single device or a single location
+
+2. How to Use ThingSpeak?
+    1. Go to ThingSpeak.com
+    2. Register with a Matlab account
+    3. Create new channels
+
+3. Ways to Read and Write Data in ThingSpeak:
+    1. Rest API:
+        * Write a channel feed: https://api.thingspeak.com/update?api_key=xxxxxxxxxxxxxxx&field1=0&field2=5
+        * Read a channel feed: https://api.thingspeak.com/channels/2463667/feeds.json?api_key=xxxxxxxxxxxxx
+            ==> Add &results=x to get only x result values
+
+    2. Matlab:
+        * thingSpeakRead()
+        * thingSpeakWrite()
+
+    3. MQTT
+    4. Simulink

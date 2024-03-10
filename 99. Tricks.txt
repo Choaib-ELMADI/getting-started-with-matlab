@@ -35,3 +35,4 @@
     ==> Show details of running a function
 
 6. Parallel Pool: parpool...
+7. ThingSpeak Communication Library for Arduino, ESP8266 and ESP32
