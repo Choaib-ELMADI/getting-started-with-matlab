@@ -1,0 +1,7 @@
+1. What is a class:
+    => Defining a class is like creating a new custom data type
+    => There are 3 accessing levels for properties and methods:
+                        Within the class        Subclass        Outside the class
+        > public:           YES                     YES                 YES
+        > protected:        YES                     YES                 NO
+        > private:          YES                     NO                  NO
