@@ -29,7 +29,7 @@ Here are some essential tools for MATLAB development:
 
 <div align="center">
 
-[![MATLAB](./Images/simulink.png)](https://github.com/Choaib-ELMADI/getting-started-with-simulink)
+[![Simulink](./Images/simulink.png)](https://github.com/Choaib-ELMADI/getting-started-with-simulink)
 
 </div>
 
